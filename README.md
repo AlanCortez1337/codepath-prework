@@ -39,13 +39,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-###DIFFICULTY BUTTONS
+DIFFICULTY BUTTONS
 ![Difficulty Display](https://user-images.githubusercontent.com/78040578/156964885-b2ff323c-b5df-4ad3-8ee4-8f948ae0cbe9.gif)
-###BEATING THE TUTORIAL
+BEATING THE TUTORIAL
 ![tutorial](https://user-images.githubusercontent.com/78040578/156965821-0e22c725-a2d9-471e-a7fa-315980cba29b.gif)
-###LOSING IN EASY MODE
+LOSING IN EASY MODE
 ![Losing in easy mode](https://user-images.githubusercontent.com/78040578/156969911-db196b94-423b-4faa-a3c5-0c4407d27f04.gif)
-###INSANE MODE EXAMPLE
+INSANE MODE EXAMPLE
 ![Insane mode example](https://user-images.githubusercontent.com/78040578/156972993-0e9073fb-5d9f-46b8-ac6e-ccc7962ee420.gif)
 
 ## Reflection Questions
