@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Memory Mania!</title>
+
+    <!-- Import the webpage's stylesheet -->
+    <link rel="stylesheet" href="./style.css" />
+
+    <!-- Import the webpage's javascript file -->
+    <script src="./script.js" defer></script>
+  </head>
+  <body>
+    
+    <h1 class="divider"></h1>
+    <h1>Memory Mania</h1>
+    <h1 class="divider"></h1>
+    <p>Be ready to remember, repeat the pattern when you press start! <br><br>Begin by selecting a difficulty:</p>
+    
+    <div id="difficulty">
+      <button id="tut" class="selected" onclick="setDifficult('tut')">Tutorial</button>
+      <button id="easy" onclick="setDifficult('easy')">Easy</button>
+      <button id="hard" onclick="setDifficult('hard')">Hard</button>
+      <button id="insane" onclick="setDifficult('insane')">Insane</button>
+    </div>
+    <div id="begin">
+      <button id="startBtn" onclick="startGame()">Start</button>
+      <button id="stopBtn" class="hidden" onclick="stopGame()">Stop</button>
+    </div>
+    <div id="gameButtonArea">
+      <button id="button1" onclick="guess(1)" onmousedown="startTone(1)" onmouseup="stopTone()"></button>
+      <button id="button2" onclick="guess(2)" onmousedown="startTone(2)" onmouseup="stopTone()"></button>
+      <button id="button3" onclick="guess(3)" onmousedown="startTone(3)" onmouseup="stopTone()"></button>
+      <button id="button4" onclick="guess(4)" onmousedown="startTone(4)" onmouseup="stopTone()"></button>
+      <button id="button5" class="hidden" onclick="guess(5)" onmousedown="startTone(5)" onmouseup="stopTone()"></button>
+      <button id="button6" class="hidden" onclick="guess(6)" onmousedown="startTone(6)" onmouseup="stopTone()"></button>
+      <button id="button7" class="hidden" onclick="guess(7)" onmousedown="startTone(7)" onmouseup="stopTone()"></button>
+      <button id="button8" class="hidden" onclick="guess(8)" onmousedown="startTone(8)" onmouseup="stopTone()"></button>
+    </div>
+  </body>
+</html>

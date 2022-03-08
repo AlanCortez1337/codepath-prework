@@ -1,0 +1,116 @@
+body {
+    font-family: helvetica, arial, sans-serif;
+    font-style: oblique;
+    margin: 2em;
+    background-color: #5f4e8f;
+    color: #dfe2e6; 
+  }
+  
+  h1 {
+    font-family: verdana, arial, sans-serif;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .divider {
+    background-color: #dfe2e6;
+    padding: 0.75px 1px;
+    margin: 0px 25px;
+    display: flex;
+  }
+  
+  button {
+    padding: 12px;
+    border-radius: 15px;
+    background: #675c9f;
+    color: #dfe2e6;
+    border-color: #6b5fa6;
+    margin: 5px;
+  }
+  
+  
+  #gameButtonArea > button {
+    width:200px;
+    height:200px;
+    margin:2px;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .selected {
+    background: #7f74b7;
+    color: #dfe2e6;
+    border-color: #766bb0;
+  }
+  
+  .wonDifficulty {
+    background: #f8e464;
+    color: #000000;
+    border-color: #e6d775;
+  }
+  
+  #button1 {
+    background: #9564f8;
+  }
+  
+  #button1:active, #button1.lit {
+    background: #7347cc;
+  }
+  
+  #button2 {
+    background: #f02cff;
+  }
+  
+  #button2:active, #button2.lit {
+    background: #d022dd;
+  }
+  
+  #button3 {
+    background: #e72f2f;
+  }
+  
+  #button3:active, #button3.lit {
+    background: #d01d1d;
+  }
+  
+  #button4 {
+    background: #fb993d;
+  }
+  
+  #button4:active, #button4.lit {
+    background: #f68820;
+  }
+  
+  #button5 {
+    background: #fefc27;
+  }
+  
+  #button5:active, #button5.lit {
+    background: #e5d80f;
+  }
+  
+  #button6 {
+    background: #17f31a;
+  }
+  
+  #button6:active, #button6.lit {
+    background: #11e514;
+  }
+  
+  #button7 {
+    background: #45e69d;
+  }
+  
+  #button7:active, #button7.lit {
+    background: #2dcf85;
+  }
+  
+  #button8 {
+    background: #308fea;
+  }
+  
+  #button8:active, #button8.lit {
+    background: #1874cc;
+  }
