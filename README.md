@@ -1,6 +1,6 @@
 # Pre-work - *Memory Game*
 
-**Memory Mania** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Memory Mania** is a Light & Sound Memory game for CodePath's SITE Program application. 
 
 Submitted by: **Alan Cortez**
 
