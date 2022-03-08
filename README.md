@@ -34,8 +34,8 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Added difficulty options which reveal more buttons, and faster clue reveal speed times depending on the difficulty
-- [x] Difficulty button is displayed differently when the user beat that mode
+- Added difficulty options which reveal more buttons, and faster clue reveal speed times depending on the difficulty
+- Difficulty button is displayed differently when the user beat that mode
 
 ## Video Walkthrough (GIF)
 
@@ -50,16 +50,26 @@ INSANE MODE EXAMPLE
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+
+- https://htmlcolorcodes.com/color-picker/
+- https://www.w3schools.com/cssref/pr_font_font-style.asp
+- https://www.w3schools.com/html/html_paragraphs.asp
+- https://www.w3schools.com/cssref/pr_class_display.asp
+- https://www.w3schools.com/jsref/jsref_push.asp
+- https://www.w3schools.com/js/js_random.asp
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+
+A challenge that stumped me while developing this project was fully understanding the capabilities of Javascript, HTML, and CSS. These three tools are merely something that I recently started learning upon deciding that I want to focus in web development. Personally, picking up on Javascript was the easiest of the three to comprehend since I am quite familiar with Python and in a way are fairly similar. It was definitely a bit tricky when I wanted to write the code for creating a randomized pattern. I was able to nail the logic with my knowledge of Python, however, I did have to consult W3schools in order to find the proper syntax and how to import a library. Little did I know at the time that Javascript already had the Math library built into it which was a nice change. Normally I love seeing at the top of my code all the imported libraries, header files, and such but I suppose this is more simple. On the other hand, I found a significant amount of time overwhelmed with all the tools and techniques I could do with HTML and CSS. Eventually, I feel I got a modest grip of these tools after looking up the documentation and first-hand practice. While I wish I could style this website a bit more, I am proud of the result and the additional features I added using Javascript. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+I suppose one question that really stuck with me throughout this process is: what determines a good color palette? Is this merely subjective or are there web development rules set in place to dictate what the color palette of a website should be? I do understand that there are definitely some grotesque combinations that should never be used, like lime green and pink. But would this be something that a web developer has to worry about or is this something fit for another role? These questions originated when I felt like trying to find a color background of the website to make it different from the original template. It led to many websites but one tip that I kept finding myself back to was the color wheel. Funny enough, I struggled comprehending this tool, eventually settling for a nice purple background with gray text. Is it really as simple as finding two great color combinations from the wheel and applying them on a website or is there more at play?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+Two big things come to mind when I wonder what else I can add to this project. The first change I would make is definitely to fix the format of the text and buttons. What I had in mind was centering the crucial information like the description, the start and difficulty buttons according to the title's position. This is more of a simple change that I believe will go far in making the website enjoyable, however my next idea is really ambitious. My next idea is that I wanted to create a new difficulty mode called “infinite”. This would piggy back off of the functions I made for creating a pattern and selecting a mode but add a twist. The idea is to keep pushing randomly generated numbers into the pattern variable until the user loses. What makes this unique from the rest is that it has a visible score box which displays how many rounds the user went through each iteration. That way, the idea of “trying to beat my last top score” is in the back of the players head which motivates them to play more and enjoy the game in a different way. Overall, there are many more features I can think of but if I had more free time the previously mentioned features would be at the top of the list.
 
 
 
