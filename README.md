@@ -75,7 +75,7 @@ Two big things come to mind when I wonder what else I can add to this project. T
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://fullerton.zoom.us/rec/share/cG10ioi06uQXkQ2w_EBlkCfWdKjjXv4iic6AIUyPwjHm8DDqKcDwZF1S1qd6J3zK.AtPrN9J483YBjgC9?startTime=1647038186000 (Passcode: sRfu$20T)
 
 
 ## License
